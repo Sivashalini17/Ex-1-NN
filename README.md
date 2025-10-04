@@ -67,39 +67,39 @@ print(len(x_test))
 
 DATASET PREVIEW:
 
-<img width="672" height="787" alt="image" src="https://github.com/user-attachments/assets/ab093539-8da0-48c6-a7d8-66725ef06ac0" />
+<img width="1563" height="551" alt="image" src="https://github.com/user-attachments/assets/f9a4aac1-9fde-4249-ad56-26c393b82e6c" />
 
-FEATURE MATRIX:
+X Values:
 
-<img width="617" height="142" alt="image" src="https://github.com/user-attachments/assets/1146c8de-4df8-4cde-9310-2caccdf04795" />
+<img width="1320" height="290" alt="image" src="https://github.com/user-attachments/assets/ac948d80-ec2f-44b2-8c21-78e6876b1604" />
 
-TARGET VECTOR:
+Y Values:
 
-<img width="265" height="28" alt="image" src="https://github.com/user-attachments/assets/866be389-39bb-4ebd-92e3-d3614ef6d06c" />
+<img width="810" height="67" alt="image" src="https://github.com/user-attachments/assets/0bc716e8-8387-43e4-943f-17f67d9dbb28" />
 
 CHECK MISSING VALUES:
 
-<img width="197" height="307" alt="image" src="https://github.com/user-attachments/assets/34d7e504-e51c-4a6c-83bb-f80f6c0ccf62" />
+<img width="475" height="637" alt="image" src="https://github.com/user-attachments/assets/1ad780f8-1d23-404c-b277-fc68d744e0c4" />
 
 CHECK FOR DUPLICATE VALUES:
 
-<img width="188" height="501" alt="image" src="https://github.com/user-attachments/assets/38f46b14-662b-4665-ae30-6ffe564fe6f5" />
+<img width="533" height="512" alt="image" src="https://github.com/user-attachments/assets/cbe9a776-0100-412d-a681-25f413ad99f5" />
 
 DATASET STATISTICAL SUMMARY :
 
-<img width="930" height="206" alt="image" src="https://github.com/user-attachments/assets/672bf95b-b3d3-4ebb-b05b-2928e96ed5a6" />
+<img width="1546" height="376" alt="image" src="https://github.com/user-attachments/assets/e748edbe-9641-4c82-8154-dc381ea92219" />
 
 NORMALIZED DATASET:
 
-<img width="666" height="531" alt="image" src="https://github.com/user-attachments/assets/4a70eb0b-882a-4116-b53b-9939de437eee" />
+<img width="1171" height="912" alt="image" src="https://github.com/user-attachments/assets/1392ae2b-c263-4639-93c2-0765c9a684f3" />
 
-TRAINING DATA:
+TRAINING DATA :
 
-<img width="401" height="160" alt="image" src="https://github.com/user-attachments/assets/9c7915b6-30e6-43c5-be03-19eb6e825cb1" />
+<img width="1070" height="237" alt="image" src="https://github.com/user-attachments/assets/b251bc43-4a3f-4f8b-bd10-a026469a85d2" />
 
 TESTING DATA:
 
-<img width="412" height="160" alt="image" src="https://github.com/user-attachments/assets/bcd12fdc-52c4-467f-8304-36652d9b1b99" />
+<img width="1101" height="242" alt="image" src="https://github.com/user-attachments/assets/ac23e21a-b7a4-4792-89e1-cdffc7fcc7cc" />
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
